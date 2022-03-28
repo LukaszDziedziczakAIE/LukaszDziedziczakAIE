@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Production & Design at AIE
 - 💞️ I’m looking to collaborate on Games
 - 📫 Contact me at s214879@students.aie.edu.au
-- 🌏 Check out my school portfolio at http://lukasz.website
+- 🌏 Check out my school portfolio at https://lukasz.website/
 - itch.io https://finalsynapse.itch.io/
 - Linktree https://linktr.ee/finalsynapse
 
